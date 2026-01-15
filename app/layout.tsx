@@ -44,9 +44,9 @@ export const metadata: Metadata = {
   publisher: "Lozinr",
   formatDetection: { email: true, telephone: true, address: true },
   icons: {
-    icon: "https://guxjkdyjeyrscewv.public.blob.vercel-storage.com/Favicon.png",
-    shortcut: "https://guxjkdyjeyrscewv.public.blob.vercel-storage.com/Favicon.png",
-    apple: "https://guxjkdyjeyrscewv.public.blob.vercel-storage.com/Favicon.png",
+    icon: "https://github.com/brandzinr44/image/blob/main/Favicon.png?raw=true",
+    shortcut: "https://github.com/brandzinr44/image/blob/main/Favicon.png?raw=true",
+    apple: "https://github.com/brandzinr44/image/blob/main/Favicon.png?raw=true",
   },
   openGraph: {
     type: "website",
