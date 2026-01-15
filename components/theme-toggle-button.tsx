@@ -31,7 +31,7 @@ export function ThemeToggleButton() {
     <>
       <button
         onClick={handleThemeToggle}
-        className="fixed bottom-4 right-4 z-50 flex items-center justify-center w-10 h-10 rounded-full bg-chart-5/20 text-chart-5-foreground "
+        className="hidden md:hidden fixed bottom-4 right-4 z-50 flex items-center justify-center w-10 h-10 rounded-full bg-chart-5/20 text-chart-5-foreground "
         aria-label="Toggle theme"
       >
         {theme === "dark" ? (
